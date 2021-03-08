@@ -1,5 +1,5 @@
-# email
-Send mass email via python with HTML body text
+# Mass Mailing
+Send mass email via python with HTML body text support.
 
 "ms.py" file stores HTML body part of mail. 
 
