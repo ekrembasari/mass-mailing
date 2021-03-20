@@ -4,7 +4,7 @@
 [![RatingStars](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)
 [![License](https://img.shields.io/github/license/ccxt-net/ccxt.net.svg)](https://github.com/)
 
-[![Automation](https://i.ibb.co/Cw11DSS/robot-automation-jobs.jpg)](https://github.com/)
+[![Automation](https://github.com/ekrembasari/mass-mailing/blob/main/robot-automation-jobs.jpg)](https://github.com/)
 
 
 Send mass email via python with **HTML** body text support.
@@ -16,5 +16,5 @@ Send mass email via python with **HTML** body text support.
 
   * **"config.py"** is configuration file
 
-**For mail unsubcribe button see [link](https://www.youtube.com/watch?v=n0QnYnM2FKY&ab_channel=YetAnotherMailMerge).**
+**Here is the [link](https://www.youtube.com/watch?v=n0QnYnM2FKY&ab_channel=YetAnotherMailMerge) for how to add mail unsubscribe button.**
 
