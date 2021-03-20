@@ -9,4 +9,5 @@ Send mass email via python with **HTML** body text support.
   * **"config.py"** is configuration file
 
 **For mail unsubcribe button see link:
+
 https://www.youtube.com/watch?v=n0QnYnM2FKY&ab_channel=YetAnotherMailMerge
