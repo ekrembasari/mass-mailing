@@ -1,6 +1,6 @@
 # Mass Mailing
 
-[![NuGet Downloads](https://raw.githubusercontent.com/NuGet/Home/dev/meta/resources/nuget.png)](https://www.nuget.org/packages/)
+[![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)](https://www.nuget.org/packages/)
 [![License](https://img.shields.io/github/license/ccxt-net/ccxt.net.svg)](https://github.com/)
 
 Send mass email via python with **HTML** body text support.
