@@ -1,8 +1,11 @@
 # Mass Mailing
 
 [![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)](https://www.nuget.org/packages/)
-[![License](https://img.shields.io/github/license/ccxt-net/ccxt.net.svg)](https://github.com/)
 [![RatingStars](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)
+[![License](https://img.shields.io/github/license/ccxt-net/ccxt.net.svg)](https://github.com/)
+
+[![Automation](https://ibb.co/cyggVss)](https://github.com/)
+
 
 Send mass email via python with **HTML** body text support.
 
