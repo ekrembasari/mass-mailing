@@ -16,5 +16,6 @@ Send mass email via python with **HTML** body text support.
 
   * **"config.py"** is configuration file
 
-**Here is the [link](https://www.youtube.com/watch?v=n0QnYnM2FKY&ab_channel=YetAnotherMailMerge) for how to add "mail unsubscribe" button.**
+# Unsubscribe Link
+**Here is the YouTube [link](https://www.youtube.com/watch?v=n0QnYnM2FKY&ab_channel=YetAnotherMailMerge) for "How to insert an unsubscribe link in Gmail and track who unsubscribed to your emails".**
 
